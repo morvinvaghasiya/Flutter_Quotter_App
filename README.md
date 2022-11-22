@@ -1,4 +1,4 @@
-# Flutter Create
+# Flutter_Quotter_App
 
 ![Flutter logo](img/Flutter.png)
 
@@ -14,31 +14,12 @@ to copy the quote to share it with all your friends.
 |   |   |   |   |   |
 
 
-## Technical Part
-The app is using two Api :
+## Pull Requests
 
-- Quotes Api ( [Forismatic](http://forismatic.com/en/) )
-- Picture Api ( [MediaWiki](https://en.wikipedia.org/w/api.php) )
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
-the used libraries in this app are :
-- [Http](https://pub.dev/packages/http) 
-- [Clipboard_manager](https://pub.dev/packages/clipboard_manager)
-- [Toast](https://pub.dev/packages/toast)
-- [Flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
-- [Screenshot](https://pub.dev/packages/screenshot)
-- [Share](https://pub.dev/packages/share)
+> You can also nominate me for Github Star developer program
+>https://github.com/morvinvaghasiya
+## Visitors Count
 
-[Playstore Link](https://play.google.com/store/apps/details?id=com.hammouda.Quotter).
-
-## Note
-- The app is rarely mistaking some names due to similarity or showing
-other related picture to that person, the image is linked directly to
-WikiMedia Api performance.
-- All tests were conducted on Android only.
-
-The app is developed by [Hammouda Elbez](https://www.linkedin.com/in/elbez-hammouda/)
-
-Elbez.hammouda@gmail.com
-
-# License
-This repository is licensed under the [GNU GPL v3.0](LICENSE)
+<img align="left" src = "https://profile-counter.glitch.me/Flutter_Quotter_App/count.svg" alt ="Loading">
